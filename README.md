@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![Zimtir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimtir&show_icons=true&theme=radical)
+![Zimtir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimtir&show_icons=true&theme=radical&count_private=tru)
 
 ![](https://github.com/Zimtir/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Zimtir/github-stats/blob/master/generated/languages.svg)
